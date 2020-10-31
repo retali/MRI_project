@@ -37,6 +37,6 @@ This analysis is based on the Macroecnomic Result Index (MRI)
 MRI = (real GDP rate / (inflation rate / unemployment rate)) * 1000
 This index is then related to the real GDP per capita growth rate.
 
-The project includes working with excel, python-pandas, tableau and machine learning.
+The project includes working with excel, python-pandas-matplotlib, tableau and machine learning.
 
 
