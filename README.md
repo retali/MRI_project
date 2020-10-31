@@ -4,7 +4,8 @@ Macroeconomic Result Index (MRI)
 This project deals with two purposes:
 1) Present an Index to measure the result of the country's macroeconomic performance (MRI), and
 2) Demonstrate that the real GDP per capita growth rate is a function of the MRI.
-It will work with data from more than 30 countries in a period of 42 years.
+
+It will work with data from more than 40 countries in a period of 42 years.
 
 The project has been worked in 6 groups of coding. 
 
