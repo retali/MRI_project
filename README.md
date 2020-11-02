@@ -1,5 +1,5 @@
 # MRI_project
-Macroeconomic Result Index (MRI)
+Macroeconomic Result Index (MRI), developed by Jose Ignacio Diaz Rettali.
 
 Some visualization at tableau-public: https://public.tableau.com/profile/jose.diaz5288#!/vizhome/jidrbook1/Sheet1?publish=yes
 
