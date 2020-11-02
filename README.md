@@ -1,5 +1,6 @@
 # MRI_project
 Macroeconomic Result Index (MRI)
+
 Some visualization at tableau-public: https://public.tableau.com/profile/jose.diaz5288#!/vizhome/jidrbook1/Sheet1?publish=yes
 
 This project deals with two purposes:
