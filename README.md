@@ -5,7 +5,7 @@ Some visualization at tableau-public:
 
 https://public.tableau.com/profile/jose.diaz5288#!/vizhome/jidrbook1/Sheet1?publish=yes
 
-https://public.tableau.com/profile/jose.diaz5288#!/vizhome/JIDRBookUSAmri/Sheet1
+https://public.tableau.com/profile/jose.diaz5288#!/vizhome/JIDRBookUSAmri/Dashboard1
 
 This project deals with two purposes:
 1) Present an Index to measure the result of the country's macroeconomic performance (MRI), and
