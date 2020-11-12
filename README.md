@@ -29,7 +29,7 @@ They are also calculated the mean squared error (MSE), the correlation coefficie
 It is used the predict function to calculate predicted values.
 VALIDATION: In order to quantify our model against new input values, we often split the data into training and testing data. 
 The model is then fit to the training data and scored by the test data. 
-Sklean pre-processing provides a library for automatically splitting up the data into training and testing.
+Sklearn pre-processing provides a library for automatically splitting up the data into training and testing.
 It is used the Durbin-Watson test for serial correlation (autocorrelation) test.
 It is shown the model fit by plotting the predicted values against the original data
 
