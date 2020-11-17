@@ -31,7 +31,7 @@ VALIDATION: In order to quantify our model against new input values, we often sp
 The model is then fit to the training data and scored by the test data. 
 Sklearn pre-processing provides a library for automatically splitting up the data into training and testing.
 It is used the Durbin-Watson test for serial correlation (autocorrelation) test.
-It is shown the model fit by plotting the predicted values against the original data
+It is shown the model fit by plotting the predicted values against the original data.
 
 Advanced economies: 40 countries defined by the International Monetary Fund
 All dataset were provided by the International Monetary Fund
