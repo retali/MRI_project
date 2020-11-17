@@ -3,7 +3,7 @@ Macroeconomic Result Index (MRI), developed by Jose Ignacio Diaz Rettali.
 
 Here is a presentation about the Macroeconomic Result Index
 
-
+https://retali.github.io/MRI_project/Fproject2.html
 
 Some visualization at tableau-public: 
 
