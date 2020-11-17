@@ -12,7 +12,7 @@ https://public.tableau.com/profile/jose.diaz5288#!/vizhome/jidrbook1/Sheet1?publ
 https://public.tableau.com/profile/jose.diaz5288#!/vizhome/JIDRBookUSAmri/Dashboard1
 
 This project deals with two purposes:
-1) Present an Index to measure the result of the country's macroeconomic performance (MRI), and
+1) Present an Index number to measure the result of the country's macroeconomic performance (MRI), and
 2) Demonstrate that the real GDP per capita growth rate is a function of the MRI.
 
 It will work with data from more than 40 countries in a period of 42 years.
