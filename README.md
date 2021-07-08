@@ -44,7 +44,7 @@ It is also worked with the US and Canadian economies.
 Macroeconomic Result Index (MRI) is an Index developed by Jose Ignacio Diaz Rettali
 
 This analysis is based on the Macroecnomic Result Index (MRI)
-MRI = (real GDP rate / (inflation rate / unemployment rate)) * 1000
+MRI = (real GDP rate / (inflation rate + unemployment rate)) * 1000
 This index is then related to the real GDP per capita growth rate.
 
 The project includes working with excel, python-pandas-matplotlib, tableau and machine learning.
